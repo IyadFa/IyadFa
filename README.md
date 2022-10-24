@@ -5,7 +5,7 @@
 - 📫 How to reach me at:
 - [Instagram](https://www.instagram.com/iyadfa/)
 - [Twitter](https://twitter.com/Iyadfarawati)
-- [Email](eyad.frawati@gmail.com)
+- [Email](mailto:eyad.frawati@gmail.com)
 
 <!---
 IyadFa/IyadFa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
