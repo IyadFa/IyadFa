@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eyad Frawati and i am a software developer
-- 👀 I’m interested in Python, Django, JavaScript, TypeScript, React.js, Next.js, and AWS
+- 👀 I’m interested in Python, Django, JavaScript, TypeScript, React.js, Next.js, Node js, and AWS
 - 🌱 I’m currently learning [three.js journey](https://threejs-journey.com/)
 - 💞️ I’m looking to collaborate on Python open source projects
 - 📫 How to reach me:
